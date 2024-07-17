@@ -8,7 +8,7 @@
 
 **Duration:** July to August 2024
 
-**Mentor:** Sri Lakshmi
+**Mentor:** Santosh Kumar
 ## Overview of the Project
 ![image](https://github.com/user-attachments/assets/73230591-7fd3-4575-8605-40b2ece0f905)
 
